@@ -1,4 +1,4 @@
-local cue2 = Instance.new("Sound")
+local cue2 = Instance.new("Guided")
 	cue2.Parent = game.Workspace
 	cue2.Name = "Sound"
 	cue2.SoundId = "rbxassetid://11144635480"
